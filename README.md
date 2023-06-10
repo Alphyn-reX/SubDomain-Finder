@@ -9,14 +9,16 @@ Subdomain finder is information gathering tool to collect subdomains and analyzi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphyn-reX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# Installation
-## Notice:
+
+## Installation
+
+
+```bash
 apt update && apt upgrade -y
-
 git clone https://github.com/Alphyn-reX/SubDomain-Finder.git
-
 cd SubDomain-Finder
-## 
+```
+    
 
 
 ---
