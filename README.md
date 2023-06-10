@@ -1,27 +1,65 @@
 # SubDomain-Finder
 Subdomain finder is information gathering tool to collect subdomains and analyzing domains performing advanced automated reconnaissance (framework).
-# 💫 About Me:
-* Hi, I’m @Alphyn reX<br>* I’m interested in Hardwere Hacking<br>* I’m currently learning software engineering<br>* How to reach me alphynrex@gmail.com
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alphyn-reX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alphyn-reX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphyn-reX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+# Hi, I'm Alphyn reX! 👋
 
-## Installation
 
+## 🚀 About Me
+I'm a full stack developer...
+
+I’m interested in Hardwere Hacking
+
+I’m currently learning software engineering
+
+How to reach me alphynrex@gmail.com
+
+
+
+## Run Locally
+
+Clone the project
 
 ```bash
-apt update && apt upgrade -y
-git clone https://github.com/Alphyn-reX/SubDomain-Finder.git
-cd SubDomain-Finder
+  git clone https://github.com/Alphyn-reX/SubDomain-Finder.git
 ```
-    
 
+Go to the project directory
+
+```bash
+  cd SubDomain-Finder
+```
+
+Give permission
+
+```bash
+  chmod +x * 
+```
+
+Sample Command
+
+```bash
+  ./install.sh -n www.google.com
+```
+
+
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  ./install.sh -n www.google.com
+```
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at alphynrex@gmail.com
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Alphyn-reX&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
