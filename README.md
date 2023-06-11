@@ -39,7 +39,7 @@ Give permission
 Sample Command
 
 ```bash
-  ./install.sh -n www.google.com
+  ./install.sh.x -n www.google.com
 ```
 
 
@@ -49,7 +49,7 @@ Sample Command
 To run tests, run the following command
 
 ```bash
-  ./install.sh -n www.google.com
+  ./install.sh.x -n www.google.com
 ```
 
 
